@@ -1,3 +1,37 @@
 body {
     background-color: skyblue;
 }
+
+header.navbar {
+    background-color: #212529;
+}
+
+h1 {
+    color: #333333;
+    border-bottom: 2px solid #333333;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+footer.footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
